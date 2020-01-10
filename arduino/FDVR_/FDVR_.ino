@@ -63,7 +63,7 @@ void loop() {
   }*/
   
   //scale it up to look nice, and print!
-  Serial.println(armAngle * 1000);
+  Serial.println(bicepValue);
 
  
   delay(2);
